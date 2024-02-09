@@ -6,7 +6,7 @@ Vision Transformer-Based Hand Gesture Recognition with HD-sEMG Signals
 * The code is written in **PyTorch**.
 * For detailed explanation please refer to one of the following papers:
 
-  <ol type="1" line-height:160%;>
+  <ol type="1" line-height:200%;>
 
   <li> Montazerin, M., Rahimian, E., Naderkhani, F. et al. Transformer-based hand gesture recognition from instantaneous to fused neural decomposition of high-density EMG signals. Sci Rep 13, 11000 (2023). <a href="https://www.nature.com/articles/s41598-023-36490-w">Link</a> </li>
 
