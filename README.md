@@ -1,7 +1,7 @@
 
 # Vision Transformer-Based Hand Gesture Recognition with HD-sEMG Signals
 
-* This is the code for a **Vision Transformer (ViT)** that is designed for gesture recognition with 3D High-Desnity sEMG (HD-sEMG) signals. 
+* This is the code for a **Vision Transformer (ViT)** that is designed for gesture recognition with 3D High-Density sEMG (HD-sEMG) signals. 
 * The code is written in **PyTorch**.
 * For detailed explanation please refer to one of the following papers:
 
