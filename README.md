@@ -1,5 +1,5 @@
 
-# <h3 style="text-align:center;">Vision Transformer-Based Hand Gesture Recognition with HD-sEMG Signals</h3>
+<h2 style="text-align:center;">Vision Transformer-Based Hand Gesture Recognition with HD-sEMG Signals</h2>
  
 
 * This is the official PyTorch code for a **Vision Transformer (ViT)** that is designed for gesture recognition with 3D High-Density sEMG (HD-sEMG) signals. 
